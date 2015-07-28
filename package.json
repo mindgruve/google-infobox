@@ -1,0 +1,23 @@
+{
+  "name": "google-infobox",
+  "version": "1.1.13",
+  "description": "Mindgruve's fork of the InfoBox plugin for Google Maps",
+  "main": "src/infobox.js",
+  "directories": {
+    "doc": "docs",
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mindgruve/google-infobox.git"
+  },
+  "author": "agray@mindgruve.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mindgruve/google-infobox/issues"
+  },
+  "homepage": "https://github.com/mindgruve/google-infobox"
+}
